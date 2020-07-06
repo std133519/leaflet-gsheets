@@ -13,7 +13,7 @@ function init() {
   var polyURL =
     "https://drive.google.com/file/d/1K9HIOQkXFMbRg9DTo9ixEhOlYckykJcx/view?usp=sharing";
   var pointsURL =
-    "https://drive.google.com/file/d/1drSWNlPgENcktvwBlJ3cupRuqzIss59L/view?usp=sharing";
+    "https://docs.google.com/spreadsheets/d/1drSWNlPgENcktvwBlJ3cupRuqzIss59L/view?usp=sharing";
 
   Tabletop.init({ key: polyURL, callback: addPolygons, simpleSheet: true });
   Tabletop.init({ key: pointsURL, callback: addPoints, simpleSheet: true }); // simpleSheet assumes there is only one table and automatically sends its data
