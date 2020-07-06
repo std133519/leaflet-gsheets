@@ -11,7 +11,7 @@ function init() {
   // these URLs come from Google Sheets 'shareable link' form
   // the first is the polygon layer and the second the points
   var polyURL =
-    "https://docs.google.com/spreadsheets/d/1K9HIOQkXFMbRg9DTo9ixEhOlYckykJcx/edit?usp=sharing";
+    "https://drive.google.com/file/d/1K9HIOQkXFMbRg9DTo9ixEhOlYckykJcx/view?usp=sharing";
   var pointsURL =
     "https://drive.google.com/file/d/1drSWNlPgENcktvwBlJ3cupRuqzIss59L/view?usp=sharing";
 
